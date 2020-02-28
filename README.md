@@ -1,4 +1,5 @@
 # Setup Hyperledger Indy Environment
+![Alt text](/indy-logo.png?raw=true "Hyperledger Indy")
 
 This repository explicitly explains how to setup a hyperledger indy test ledger locally and its environment for **development purpose**. These insturctions may slightly update so it is recommended to also visit [Hyperledger Indy SDK repository](https://github.com/hyperledger/indy-sdk) for more details. These intructions are strictly inteded for local machines to setup for a development environment. It is highly advised to not use these instructions for production environment deployment as it could lead to serious security issues.
 
